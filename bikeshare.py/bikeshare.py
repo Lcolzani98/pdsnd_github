@@ -213,6 +213,7 @@ def main():
         if restart.lower() != 'yes':
             break
 
+        print('You should go to the beach the weather is amazing, stop coding')
 
 if __name__ == "__main__":
 	main()
